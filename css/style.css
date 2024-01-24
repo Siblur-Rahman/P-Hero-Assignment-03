@@ -14,3 +14,10 @@
 footer a{
     color:#FFFFFF99;
 }
+header a{
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
