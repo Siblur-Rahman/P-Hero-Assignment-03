@@ -8,3 +8,9 @@
     font-weight: 800;
     line-height: normal;
 }
+.left-box > div{
+    border-radius: 10px;
+}
+footer a{
+    color:#FFFFFF99;
+}
